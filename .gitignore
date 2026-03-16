@@ -1,0 +1,23 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio user files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# SSIS build artifacts
+*.ispac
+*.dtproj.user
+
+# Temporary files
+*.log
+*.tmp
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
